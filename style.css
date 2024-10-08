@@ -1,0 +1,29 @@
+body {/*background-color: lightblue;*/
+	margin: 0 auto;
+	width:50%;
+}
+div {margin-top: 25px}
+.sofia-sans-extra-condensed-<uniquifier> {
+  font-family: "Sofia Sans Extra Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+p {font-family: Sofia Sans Extra Condensed;
+	color: black;
+float: left;
+margin: 3px;
+font-size: 1.5em;}
+
+.red-and-green {color:white;}
+.red-and-green:hover {background-color:red;
+color:green;}
+
+.visible-text {color: black;}
+.special {color: white;}
+.special:hover {background-color: green;
+color: red;}
+h1 {font-family: "Sofia Sans Extra Condensed";
+font-size: 3em;
+margin: 0 auto;}
